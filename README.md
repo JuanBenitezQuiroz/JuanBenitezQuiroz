@@ -1,6 +1,6 @@
 # Aubenroz
 
-<div style="height: 0; padding-bottom: calc(30.61%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/68fa52c71f236979353c8efb" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
+<a href='https://postimg.cc/dL6Bt0vw' target='_blank'><img src='https://i.postimg.cc/dVPS67xk/Copia-de-NK-Banner-Wattpad.jpg' border='0' alt='Foto-Banner'/></a>
 
 # 👋 Hola, soy **Juan Manuel Benítez Quiroz**
 
