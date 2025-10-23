@@ -39,35 +39,9 @@ Trabajo en proyectos que cruzan fronteras entre la **arquitectura, el arte, el d
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🌌 Filosofía personal
-<p align="center">
-  <span style="
-    display: inline-block;
-    font-family: monospace;
-    font-size: 1.2em;
-    white-space: nowrap;
-    border-right: 2px solid #00bcd4;
-    overflow: hidden;
-    animation: typing 5s steps(20, end), blink .75s step-end infinite alternate, restart 15s infinite;
-  ">
-    “El futuro es hoy”
-  </span>
-</p>
+__>__ _"El futuro es hoy”_
 
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
 
-@keyframes blink {
-  50% { border-color: transparent }
-}
-
-@keyframes restart {
-  0%, 90% { opacity: 1 }
-  91%, 100% { opacity: 0 }
-}
-</style>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
