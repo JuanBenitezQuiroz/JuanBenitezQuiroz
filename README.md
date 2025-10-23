@@ -3,17 +3,17 @@
 
 # 👋 Hola, soy **Juan Manuel Benítez Quiroz**
 
-🎨 **Arquitecto, diseñador y creador multidisciplinario.**  
-Me apasiona explorar el punto exacto donde se encuentran la **poesía, la forma y la función**.  
-Trabajo en proyectos que cruzan fronteras entre la **arquitectura, el arte, el diseño digital y la música**, buscando siempre crear experiencias que inspiren, hablen y trasciendan.
+🎨 **Arquitecto, diseñador y creador multidisciplinario, apasionado por la tecnología**  
+Me apasiona explorar el punto exacto donde se encuentran la **poesía, la forma y la función, la tecnología y el futuro**.  
+Trabajo en proyectos que cruzan fronteras entre la **arquitectura, el arte, el diseño digital y la música**, buscando siempre crear experiencias que inspiren, hablen y trasciendan. Actualmente me encuentro en el proceso de reconversión profesional y siempre me voy capacitando.
 
 ---
 
 ### 🧭 Sobre mí
-- 🏗️ Arquitecto titulado, con enfoque en **tecnología bioclimática, diseño inteligente y resiliente**.  
-- 🌱 Creo en la **estética con propósito**, donde cada línea tiene un significado.  
+- 🏗️ Arquitecto titulado, con enfoque en **tecnología bioclimática, diseño inteligente y resiliente**, con diferentes 
+- 🌱 Creo en la **estética con propósito**, donde cada línea tiene un significado y en **la creación tecnológica y propositva**
 - 💡 Experimento con **tecnología, narrativa y emociones** para construir ideas vivas, páginas webs y aplicaciones.  
-- 🎶 También soy compositor: la música es mi otra forma de arquitectura y programación.  
+- 🎶 También soy compositor: la música es mi otra forma de arquitectura y programación, con galardones.
 
 ---
 
@@ -25,7 +25,10 @@ Trabajo en proyectos que cruzan fronteras entre la **arquitectura, el arte, el d
 
 ---
 
-### 🚀 En qué estoy trabajando
+### 🚀 En qué estoy trabajando en Tecnología
+- 🏫 **Apps**, ideas de aplicaciones para la Vivienda Inteligente y la Tenencia Responsable de Mascotas.
+
+### 🚀 En qué más estoy trabajando
 - 🏫 **Escuela resiliente en Nepal**, diseño sostenible para comunidades rurales.
 - 🌟**Poliedros lumínicos en Rancagua**, mejoramiento urbano.  
 - 🌿 **Verso Interiores**, estudio de interiorismo poético.  
@@ -34,14 +37,13 @@ Trabajo en proyectos que cruzan fronteras entre la **arquitectura, el arte, el d
 ---
 
 ### 🌌 Filosofía personal
-> “La arquitectura no es solo construir espacios, sino emociones que perduran.”
+> “El futuro es hoy”
 
 ---
 
 ### 📫 Conecta conmigo
-[![Instagram](https://img.shields.io/badge/Instagram-%40juanbenitez-blueviolet?logo=instagram)](https://instagram.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Benítez-blue?logo=linkedin)](https://linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Verso%20Interiores-pink?logo=sparkles)](https://versointeriores.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40juanbenitez-blueviolet?logo=instagram)](https://instagram.com/jmaanuel_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Benítez-blue?logo=linkedin)]([https://linkedin.com/juanmanuel.](https://cl.linkedin.com/in/juanmanuelben))  
 
 ---
 
