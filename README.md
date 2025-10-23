@@ -1,5 +1,6 @@
 # Aubenroz
 
+![Mi foto](<a href='https://postimg.cc/ZWLSVprk' target='_blank'><img src='https://i.postimg.cc/W1B1p7z4/Foto-Banner.jpg' border='0' alt='Foto-Banner'/></a>)
 
 # 👋 Hola, soy **Juan Manuel Benítez Quiroz**
 
